@@ -22,3 +22,6 @@ Visual storytelling for business insights
 Open the .pbix file in Power BI Desktop.
 Interact with visuals to explore sales trends and insights.
 Filter by product or date for detailed analysis.
+
+# Link
+LinkedIn: https://www.linkedin.com/posts/hnin-yee-hlaing-24a723226_dataanalysis-powerbi-businessintelligence-activity-7384959808946294787-CGv_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADi0K5oBWMxcy4RLgTP1AEmmPvi9I4uzVTU 
